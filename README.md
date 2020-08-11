@@ -1,7 +1,10 @@
 **_### Flutter-Api-Handling_**
 
-This Repo i used some open source api for education purpose.
+This Repo i used some open source API for education purpose.
 I am taking data from API and displaying data on app with responsive user interface. 
+
+Note: All Application Ui ScreenShoot provided into OutputFile floder
+      And For API , you will get that api link in importantfile.txt in all packages 
 
 **_### Responsive Ui with API Handling_**
 **Screen View Video of  User Interface of Folder name (Responsive_api_handling)**
